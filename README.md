@@ -1,4 +1,4 @@
-![SUFO](https://github.com/officialtc/SUFO/assets/83376141/22c6f11f-e508-4188-93ab-383380659691)
+![SUFO](https://github.com/officialtc/SUFO/assets/83376141/a3ec6cdd-e905-4eb8-8a63-9022c7c354b4)
 
 SUFO - Social User Finder Osint ||
 Original project of Sherlock [https://github.com/sherlock-project/sherlock]
