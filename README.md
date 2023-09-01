@@ -1,4 +1,4 @@
-![SUFO](https://github.com/officialtc/SUFO/assets/83376141/0da22214-8718-4ddf-b2cf-4ac43e524faa)
+![SUFO](https://github.com/officialtc/SUFO/assets/83376141/22c6f11f-e508-4188-93ab-383380659691)
 
 SUFO is Sherlock but better
 Original project of Sherlock [https://github.com/sherlock-project/sherlock]
