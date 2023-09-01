@@ -9,7 +9,7 @@ R2: Pip: [https://ibb.co/Cs6DHnf] [https://ibb.co/51YmM4v] [https://ibb.co/7VVj0
 
 R3: Git: [https://git-scm.com/download/win] "64-bit Git for Windows Setup"
 
-  --timeout      Time (in seconds) to wait for response to requests.                   
-  --print-found  Output sites where the username was found.         
---browse       Browse to all results on default browser.          
---nsfw         Include checking of NSFW sites from default list.  
+  --timeout:      Time (in seconds) to wait for response to requests.                   
+  --print-found:  Output sites where the username was found.         
+--browse:       Browse to all results on default browser.          
+--nsfw:         Include checking of NSFW sites from default list.  
